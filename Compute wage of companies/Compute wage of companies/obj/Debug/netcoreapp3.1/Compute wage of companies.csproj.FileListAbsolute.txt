@@ -1,0 +1,14 @@
+D:\visuals\day 9 assignment\Compute wage of companies\Compute wage of companies\bin\Debug\netcoreapp3.1\Compute wage of companies.exe
+D:\visuals\day 9 assignment\Compute wage of companies\Compute wage of companies\bin\Debug\netcoreapp3.1\Compute wage of companies.deps.json
+D:\visuals\day 9 assignment\Compute wage of companies\Compute wage of companies\bin\Debug\netcoreapp3.1\Compute wage of companies.runtimeconfig.json
+D:\visuals\day 9 assignment\Compute wage of companies\Compute wage of companies\bin\Debug\netcoreapp3.1\Compute wage of companies.runtimeconfig.dev.json
+D:\visuals\day 9 assignment\Compute wage of companies\Compute wage of companies\bin\Debug\netcoreapp3.1\Compute wage of companies.dll
+D:\visuals\day 9 assignment\Compute wage of companies\Compute wage of companies\bin\Debug\netcoreapp3.1\Compute wage of companies.pdb
+D:\visuals\day 9 assignment\Compute wage of companies\Compute wage of companies\obj\Debug\netcoreapp3.1\Compute wage of companies.csproj.AssemblyReference.cache
+D:\visuals\day 9 assignment\Compute wage of companies\Compute wage of companies\obj\Debug\netcoreapp3.1\Compute wage of companies.GeneratedMSBuildEditorConfig.editorconfig
+D:\visuals\day 9 assignment\Compute wage of companies\Compute wage of companies\obj\Debug\netcoreapp3.1\Compute wage of companies.AssemblyInfoInputs.cache
+D:\visuals\day 9 assignment\Compute wage of companies\Compute wage of companies\obj\Debug\netcoreapp3.1\Compute wage of companies.AssemblyInfo.cs
+D:\visuals\day 9 assignment\Compute wage of companies\Compute wage of companies\obj\Debug\netcoreapp3.1\Compute wage of companies.csproj.CoreCompileInputs.cache
+D:\visuals\day 9 assignment\Compute wage of companies\Compute wage of companies\obj\Debug\netcoreapp3.1\Compute wage of companies.dll
+D:\visuals\day 9 assignment\Compute wage of companies\Compute wage of companies\obj\Debug\netcoreapp3.1\Compute wage of companies.pdb
+D:\visuals\day 9 assignment\Compute wage of companies\Compute wage of companies\obj\Debug\netcoreapp3.1\Compute wage of companies.genruntimeconfig.cache
