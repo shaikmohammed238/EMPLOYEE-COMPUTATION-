@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Uc9_EMPLOYWAGE_BUILDER_FOR_EACH_COMPANY</RootNamespace>
+  </PropertyGroup>
+
+</Project>

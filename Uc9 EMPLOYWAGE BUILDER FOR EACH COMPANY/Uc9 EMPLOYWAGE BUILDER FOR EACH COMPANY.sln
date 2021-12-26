@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uc9 EMPLOYWAGE BUILDER FOR EACH COMPANY", "Uc9 EMPLOYWAGE BUILDER FOR EACH COMPANY\Uc9 EMPLOYWAGE BUILDER FOR EACH COMPANY.csproj", "{874767AA-4F49-4D20-94D5-9DF9CF087C13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{874767AA-4F49-4D20-94D5-9DF9CF087C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874767AA-4F49-4D20-94D5-9DF9CF087C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874767AA-4F49-4D20-94D5-9DF9CF087C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874767AA-4F49-4D20-94D5-9DF9CF087C13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6F7E854-2EA8-4452-AAFA-561A10F2F3E5}
+	EndGlobalSection
+EndGlobal
