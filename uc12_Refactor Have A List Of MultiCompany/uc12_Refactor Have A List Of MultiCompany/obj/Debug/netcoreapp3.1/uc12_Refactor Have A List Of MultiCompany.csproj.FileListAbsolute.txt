@@ -1,0 +1,14 @@
+D:\visuals\DAY10 assignment\uc12_Refactor Have A List Of MultiCompany\uc12_Refactor Have A List Of MultiCompany\bin\Debug\netcoreapp3.1\uc12_Refactor Have A List Of MultiCompany.exe
+D:\visuals\DAY10 assignment\uc12_Refactor Have A List Of MultiCompany\uc12_Refactor Have A List Of MultiCompany\bin\Debug\netcoreapp3.1\uc12_Refactor Have A List Of MultiCompany.deps.json
+D:\visuals\DAY10 assignment\uc12_Refactor Have A List Of MultiCompany\uc12_Refactor Have A List Of MultiCompany\bin\Debug\netcoreapp3.1\uc12_Refactor Have A List Of MultiCompany.runtimeconfig.json
+D:\visuals\DAY10 assignment\uc12_Refactor Have A List Of MultiCompany\uc12_Refactor Have A List Of MultiCompany\bin\Debug\netcoreapp3.1\uc12_Refactor Have A List Of MultiCompany.runtimeconfig.dev.json
+D:\visuals\DAY10 assignment\uc12_Refactor Have A List Of MultiCompany\uc12_Refactor Have A List Of MultiCompany\bin\Debug\netcoreapp3.1\uc12_Refactor Have A List Of MultiCompany.dll
+D:\visuals\DAY10 assignment\uc12_Refactor Have A List Of MultiCompany\uc12_Refactor Have A List Of MultiCompany\bin\Debug\netcoreapp3.1\uc12_Refactor Have A List Of MultiCompany.pdb
+D:\visuals\DAY10 assignment\uc12_Refactor Have A List Of MultiCompany\uc12_Refactor Have A List Of MultiCompany\obj\Debug\netcoreapp3.1\uc12_Refactor Have A List Of MultiCompany.csproj.AssemblyReference.cache
+D:\visuals\DAY10 assignment\uc12_Refactor Have A List Of MultiCompany\uc12_Refactor Have A List Of MultiCompany\obj\Debug\netcoreapp3.1\uc12_Refactor Have A List Of MultiCompany.GeneratedMSBuildEditorConfig.editorconfig
+D:\visuals\DAY10 assignment\uc12_Refactor Have A List Of MultiCompany\uc12_Refactor Have A List Of MultiCompany\obj\Debug\netcoreapp3.1\uc12_Refactor Have A List Of MultiCompany.AssemblyInfoInputs.cache
+D:\visuals\DAY10 assignment\uc12_Refactor Have A List Of MultiCompany\uc12_Refactor Have A List Of MultiCompany\obj\Debug\netcoreapp3.1\uc12_Refactor Have A List Of MultiCompany.AssemblyInfo.cs
+D:\visuals\DAY10 assignment\uc12_Refactor Have A List Of MultiCompany\uc12_Refactor Have A List Of MultiCompany\obj\Debug\netcoreapp3.1\uc12_Refactor Have A List Of MultiCompany.csproj.CoreCompileInputs.cache
+D:\visuals\DAY10 assignment\uc12_Refactor Have A List Of MultiCompany\uc12_Refactor Have A List Of MultiCompany\obj\Debug\netcoreapp3.1\uc12_Refactor Have A List Of MultiCompany.dll
+D:\visuals\DAY10 assignment\uc12_Refactor Have A List Of MultiCompany\uc12_Refactor Have A List Of MultiCompany\obj\Debug\netcoreapp3.1\uc12_Refactor Have A List Of MultiCompany.pdb
+D:\visuals\DAY10 assignment\uc12_Refactor Have A List Of MultiCompany\uc12_Refactor Have A List Of MultiCompany\obj\Debug\netcoreapp3.1\uc12_Refactor Have A List Of MultiCompany.genruntimeconfig.cache

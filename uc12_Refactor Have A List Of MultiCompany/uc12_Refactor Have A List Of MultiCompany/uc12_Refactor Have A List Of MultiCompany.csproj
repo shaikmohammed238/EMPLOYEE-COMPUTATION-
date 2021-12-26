@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>uc12_Refactor_Have_A_List_Of_MultiCompany</RootNamespace>
+  </PropertyGroup>
+
+</Project>

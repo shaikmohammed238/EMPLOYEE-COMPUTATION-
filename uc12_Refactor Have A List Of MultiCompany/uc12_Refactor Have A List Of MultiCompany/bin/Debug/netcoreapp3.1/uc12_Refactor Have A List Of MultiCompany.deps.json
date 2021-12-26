@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "uc12_Refactor Have A List Of MultiCompany/1.0.0": {
+        "runtime": {
+          "uc12_Refactor Have A List Of MultiCompany.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uc12_Refactor Have A List Of MultiCompany/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
