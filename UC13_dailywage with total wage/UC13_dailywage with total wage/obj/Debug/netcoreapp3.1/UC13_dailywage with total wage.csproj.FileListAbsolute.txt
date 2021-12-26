@@ -1,0 +1,14 @@
+D:\visuals\DAY10 assignment\UC13_dailywage with total wage\UC13_dailywage with total wage\bin\Debug\netcoreapp3.1\UC13_dailywage with total wage.exe
+D:\visuals\DAY10 assignment\UC13_dailywage with total wage\UC13_dailywage with total wage\bin\Debug\netcoreapp3.1\UC13_dailywage with total wage.deps.json
+D:\visuals\DAY10 assignment\UC13_dailywage with total wage\UC13_dailywage with total wage\bin\Debug\netcoreapp3.1\UC13_dailywage with total wage.runtimeconfig.json
+D:\visuals\DAY10 assignment\UC13_dailywage with total wage\UC13_dailywage with total wage\bin\Debug\netcoreapp3.1\UC13_dailywage with total wage.runtimeconfig.dev.json
+D:\visuals\DAY10 assignment\UC13_dailywage with total wage\UC13_dailywage with total wage\bin\Debug\netcoreapp3.1\UC13_dailywage with total wage.dll
+D:\visuals\DAY10 assignment\UC13_dailywage with total wage\UC13_dailywage with total wage\bin\Debug\netcoreapp3.1\UC13_dailywage with total wage.pdb
+D:\visuals\DAY10 assignment\UC13_dailywage with total wage\UC13_dailywage with total wage\obj\Debug\netcoreapp3.1\UC13_dailywage with total wage.csproj.AssemblyReference.cache
+D:\visuals\DAY10 assignment\UC13_dailywage with total wage\UC13_dailywage with total wage\obj\Debug\netcoreapp3.1\UC13_dailywage with total wage.GeneratedMSBuildEditorConfig.editorconfig
+D:\visuals\DAY10 assignment\UC13_dailywage with total wage\UC13_dailywage with total wage\obj\Debug\netcoreapp3.1\UC13_dailywage with total wage.AssemblyInfoInputs.cache
+D:\visuals\DAY10 assignment\UC13_dailywage with total wage\UC13_dailywage with total wage\obj\Debug\netcoreapp3.1\UC13_dailywage with total wage.AssemblyInfo.cs
+D:\visuals\DAY10 assignment\UC13_dailywage with total wage\UC13_dailywage with total wage\obj\Debug\netcoreapp3.1\UC13_dailywage with total wage.csproj.CoreCompileInputs.cache
+D:\visuals\DAY10 assignment\UC13_dailywage with total wage\UC13_dailywage with total wage\obj\Debug\netcoreapp3.1\UC13_dailywage with total wage.dll
+D:\visuals\DAY10 assignment\UC13_dailywage with total wage\UC13_dailywage with total wage\obj\Debug\netcoreapp3.1\UC13_dailywage with total wage.pdb
+D:\visuals\DAY10 assignment\UC13_dailywage with total wage\UC13_dailywage with total wage\obj\Debug\netcoreapp3.1\UC13_dailywage with total wage.genruntimeconfig.cache
