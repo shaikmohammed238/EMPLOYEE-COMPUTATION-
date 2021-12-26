@@ -1,0 +1,14 @@
+D:\visuals\DAY10 assignment\Empwage Using Interface Approach\Empwage Using Interface Approach\bin\Debug\netcoreapp3.1\Empwage Using Interface Approach.exe
+D:\visuals\DAY10 assignment\Empwage Using Interface Approach\Empwage Using Interface Approach\bin\Debug\netcoreapp3.1\Empwage Using Interface Approach.deps.json
+D:\visuals\DAY10 assignment\Empwage Using Interface Approach\Empwage Using Interface Approach\bin\Debug\netcoreapp3.1\Empwage Using Interface Approach.runtimeconfig.json
+D:\visuals\DAY10 assignment\Empwage Using Interface Approach\Empwage Using Interface Approach\bin\Debug\netcoreapp3.1\Empwage Using Interface Approach.runtimeconfig.dev.json
+D:\visuals\DAY10 assignment\Empwage Using Interface Approach\Empwage Using Interface Approach\bin\Debug\netcoreapp3.1\Empwage Using Interface Approach.dll
+D:\visuals\DAY10 assignment\Empwage Using Interface Approach\Empwage Using Interface Approach\bin\Debug\netcoreapp3.1\Empwage Using Interface Approach.pdb
+D:\visuals\DAY10 assignment\Empwage Using Interface Approach\Empwage Using Interface Approach\obj\Debug\netcoreapp3.1\Empwage Using Interface Approach.csproj.AssemblyReference.cache
+D:\visuals\DAY10 assignment\Empwage Using Interface Approach\Empwage Using Interface Approach\obj\Debug\netcoreapp3.1\Empwage Using Interface Approach.GeneratedMSBuildEditorConfig.editorconfig
+D:\visuals\DAY10 assignment\Empwage Using Interface Approach\Empwage Using Interface Approach\obj\Debug\netcoreapp3.1\Empwage Using Interface Approach.AssemblyInfoInputs.cache
+D:\visuals\DAY10 assignment\Empwage Using Interface Approach\Empwage Using Interface Approach\obj\Debug\netcoreapp3.1\Empwage Using Interface Approach.AssemblyInfo.cs
+D:\visuals\DAY10 assignment\Empwage Using Interface Approach\Empwage Using Interface Approach\obj\Debug\netcoreapp3.1\Empwage Using Interface Approach.csproj.CoreCompileInputs.cache
+D:\visuals\DAY10 assignment\Empwage Using Interface Approach\Empwage Using Interface Approach\obj\Debug\netcoreapp3.1\Empwage Using Interface Approach.dll
+D:\visuals\DAY10 assignment\Empwage Using Interface Approach\Empwage Using Interface Approach\obj\Debug\netcoreapp3.1\Empwage Using Interface Approach.pdb
+D:\visuals\DAY10 assignment\Empwage Using Interface Approach\Empwage Using Interface Approach\obj\Debug\netcoreapp3.1\Empwage Using Interface Approach.genruntimeconfig.cache
